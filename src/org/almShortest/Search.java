@@ -209,6 +209,7 @@ public class Search {//游戏寻路算法
 
 
 //   寻路算法
+            //第二次测试
             if (flag == 1) {
                 int[] finalMap = {finishPoint.getX(),finishPoint.getY()};
                 map.add(finalMap);
