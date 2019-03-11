@@ -208,7 +208,7 @@ public class Search {//游戏寻路算法
 
 
 
-
+//   寻路算法
             if (flag == 1) {
                 int[] finalMap = {finishPoint.getX(),finishPoint.getY()};
                 map.add(finalMap);
